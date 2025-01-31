@@ -6,8 +6,6 @@ classes: wide
 permalink: /contact/
 ---
 
-*This page is fictional and created as part of a job market website demo in Jekyll.*
-
 ### Campus Office
 Northern Illinois University  
 Out on the Field  
