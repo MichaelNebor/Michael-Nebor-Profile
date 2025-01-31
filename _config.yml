@@ -40,10 +40,10 @@ author:
   name   : "Michael Nebor"
   avatar : "/assets/images/banner-husky.jpg"
   bio    : "My name is Michael Nebor, I am a Financial Economics PhD student at Northern Illinois University. I am looking for academic research positions."
-  location: "DeKalb, Illinois"
+  location: "Naperville, Illinois"
   github : 
   linkedin: "school/northern-illinois-university" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
-  email  : 
+  email  : "Mjnebor@gmail.com"
 
 
 # # comments by disqus
