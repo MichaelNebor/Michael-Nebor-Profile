@@ -15,4 +15,4 @@ permalink: /portfolio/index.html
 <h2 id="working-papers">Working Papers</h2> 
   
 **Job Market Paper:** Michael Nebor, "Introducing DCC-SVR, a hybrid forecasting method for large covariance matrices" Keywords: DCC, SVR, GJR-GARCH, Portfolio Allocation, Foreasting.
-[Download File]({{ site.baseurl }}/assets/docs/Nebor_PHD_Paper2_date_1.28.25.pdf)
+[Download File]({{ site.baseurl }}/assets/docs/Nebor_PHD_Paper_2_date_1.28.25.pdf)
