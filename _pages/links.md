@@ -8,13 +8,9 @@ permalink: /links/
 
 # Northern Illinois University Links
 - [NIU Department of Economics](https://www.niu.edu/clas/econ/)
-- [NIU Institute for the Study of the Environment, Sustainability & Energy](https://www.niu.edu/clas/ese/)
-- [Blackboard Course Management System](https://webcourses.niu.edu/)
-- [NIU University Writing Center](https://www.niu.edu/academic-support/get-help/writing-center/index.shtml)
-- [NIU Office of the Ombudsperson](https://www.niu.edu/ombuds/index.shtml)
-- [71 North Pulse (Innovation Studio Newsletter)](https://71north.beehiiv.com/)
+- [NIU Department of Statistics and Actuarial Science](https://www.niu.edu/clas/statistics-actuarial/index.shtml)
+- [University of Iowa Department of Economics](https://tippie.uiowa.edu/about/economics-department)
+- [University of Iowa Department of Finance](https://tippie.uiowa.edu/about/finance-department)
 
 # Other Links of Interest
-- [NIU Football](https://niuhuskies.com/sports/football)
-- [NIU Men's Basketball](https://niuhuskies.com/sports/mens-basketball)
-- [NIU Women's Basketball](https://niuhuskies.com/sports/womens-basketball)
+- [LinkedIn](https://www.linkedin.com/in/michael-nebor-9192b8119/)
