@@ -7,11 +7,19 @@ permalink: /teaching/
 ---
 
 
-# Undergraduate Level
-
 ### Northern Illinois University (Graduate Teaching Assistant)
-- SPRT 101: Intermediate Macro (fall 2023, spring 2024)
-- SPRT 101: Prin Micro, Prin Macro, Environmental Economics, Financial Economics, Financial Derivatives, Time Series and Financial Econometrics
+- ECON 260: Principles of Micro (u)
+- ECON 261: Principles of Macro (u)(head TA)
+- ECON 361: Intermediate Macro (u)
+- ECON 690: Econometrics 1 (g)
+- ECON 793: Financial and Time-Series Econometrics (g)
+- ECON 590: Economic Statistics and Econometrics (g)
+- ECON 661: Macroeconomic Analysis 1 (g)
+- ECON 492: Research Methods in Economics (u honors)
+- ECON 386: Environmental Economics (u)
+- ECON 340: Financial Economics (u)
+- ECON 584: Financial Derivatives (g)
+
  
 
 ### Guest Lectures
