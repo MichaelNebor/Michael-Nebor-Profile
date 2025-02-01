@@ -7,8 +7,9 @@ permalink: /contact/
 ---
 
 ### Campus Office
-Northern Illinois University  
-Out on the Field  
+Northern Illinois University
+Department of Economics
+Zulauf Hall 515  
 DeKalb, IL 60115-2825  
 
 ###### Office Hours:  
