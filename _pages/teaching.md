@@ -19,6 +19,7 @@ permalink: /teaching/
 - ECON 386: Environmental Economics (u)
 - ECON 340: Financial Economics (u)
 - ECON 584: Financial Derivatives (g)
+- ECON 390: Basic Econometrics and Economic Applications (u)
 
  
 
