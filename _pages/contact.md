@@ -15,5 +15,5 @@ DeKalb, IL 60115-2825
 ###### Office Hours:  
 by appointment
 
-### Email  
-![image of email]({{site.baseurl}}/assets/images/email.jpg)
+### Email
+view CV
