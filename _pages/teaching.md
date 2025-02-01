@@ -11,15 +11,17 @@ permalink: /teaching/
 - ECON 260: Principles of Micro (u)
 - ECON 261: Principles of Macro (u)(head TA)
 - ECON 361: Intermediate Macro (u)
-- ECON 690: Econometrics 1 (g)
-- ECON 793: Financial and Time-Series Econometrics (g)
+- ECON 340: Financial Economics (u)
+- ECON 386: Environmental Economics (u)
+- ECON 390: Basic Econometrics and Economic Applications (u)
+- ECON 492: Research Methods in Economics (u honors)
+- ECON 584: Financial Derivatives (g)
 - ECON 590: Economic Statistics and Econometrics (g)
 - ECON 661: Macroeconomic Analysis 1 (g)
-- ECON 492: Research Methods in Economics (u honors)
-- ECON 386: Environmental Economics (u)
-- ECON 340: Financial Economics (u)
-- ECON 584: Financial Derivatives (g)
-- ECON 390: Basic Econometrics and Economic Applications (u)
+- ECON 690: Econometrics 1 (g)
+- ECON 793: Financial and Time-Series Econometrics (g)
+  
+
 
  
 
