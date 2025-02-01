@@ -7,7 +7,7 @@ url: "https://MichaelNebor.github.io"
 baseurl: "/Michael-Nebor-Profile"
 repository: "MichaelNebor/Michael-Nebor-Profile"
 header:
-image: "/assets/images/Nebor_Michael_ProfilePicture.jpg"
+image: /assets/images/Nebor_Michael_ProfilePicture.jpg
 
 include:
   - _pages
