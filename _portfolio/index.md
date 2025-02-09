@@ -16,3 +16,6 @@ permalink: /portfolio/index.html
   
 **Job Market Paper:** Michael Nebor, "Introducing DCC-SVR, a hybrid forecasting method for large covariance matrices" Keywords: DCC, SVR, GJR-GARCH, Portfolio Allocation, Foreasting.
 [Download File]({{ site.baseurl }}/assets/docs/Nebor_PHD_Paper_2_date_1.28.25.pdf)
+
+
+Michael Nebor, “Covariance Matrix Forecasting Using Copula-Based Simulation" Keywords: DCC, GJR-GARCH, Portfolio Allocation, Foreasting.
