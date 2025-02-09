@@ -6,14 +6,16 @@ classes: wide
 permalink: /contact/
 ---
 
-### Campus Office
+[LinkedIn](https://www.linkedin.com/in/michael-nebor-9192b8119/)
+
+### Campus Office:
 Northern Illinois University
 Department of Economics
 Zulauf Hall 515  
 DeKalb, IL 60115-2825  
 
-###### Office Hours:  
-by appointment
+### Office Hours:  
+By appointment
 
-### Email
-view CV
+### Email:
+View CV
