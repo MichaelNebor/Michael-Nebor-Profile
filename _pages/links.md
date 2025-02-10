@@ -13,5 +13,6 @@ permalink: /links/
 - [University of Iowa Department of Finance](https://tippie.uiowa.edu/about/finance-department)
 
 # Other Links of Interest
+- [LinkedIn](https://www.linkedin.com/in/michael-nebor-9192b8119/)
 - [Wintrust Story](https://www.wintrust.com/our-story.html)
 - [Wintrust Background](https://en.wikipedia.org/wiki/Wintrust_Financial)
