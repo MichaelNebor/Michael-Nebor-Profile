@@ -6,7 +6,6 @@ classes: wide
 permalink: /contact/
 ---
 
-[LinkedIn](https://www.linkedin.com/in/michael-nebor-9192b8119/)
 
 ### Campus Office:
 Northern Illinois University
