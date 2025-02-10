@@ -15,4 +15,4 @@ My name is Michael Nebor, and I am an Economics PhD student at Northern Illinois
 I am originally from the Chicagoland area. I completed my undergradute studies at the University of Iowa and my graduate studies at Northern Illinois University. 
 My fields of specialization are Financial Economics and Econometrics. I am interested in financial research. My industry experience consists of working as a staff accountant and working at a bank as a quantitative analyst with a focus on financial modeling. 
 
-In my free time I enjoy chess, puzzles, college football, and movies. 
+In my free time I enjoy chess, puzzles, and good movies. 
