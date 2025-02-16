@@ -18,4 +18,4 @@ permalink: /portfolio/index.html
 [Download File]({{ site.baseurl }}/assets/docs/Nebor_PHD_Paper_2_date_1.28.25.pdf)
 
 
-Michael Nebor, “Covariance Matrix Forecasting Using Copula-Based Simulation" Keywords: DCC, GJR-GARCH, Portfolio Allocation, Foreasting.
+Michael Nebor, “Covariance Matrix Forecasting Using Copula-Based Simulation" Keywords: DCC, GJR-GARCH, Portfolio Allocation, Foreasting. [Download File]({{ site.baseurl }}/assets/docs/Copula Paper 2.16.2025.pdf)
