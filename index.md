@@ -8,7 +8,7 @@ header:
 
 <img src="https://github.com/MichaelNebor/Michael-Nebor-Profile/blob/master/assets/images/Nebor_Michael_ProfilePicture.jpg?raw=true" width="50%" hspace="20" align="right">
 
-My name is Michael Nebor, I am a Financial Researcher with a PHD from Northern Illinois University.
+My name is Michael Nebor, I am a researcher with a Ph.D. in Financial Economics and Econometrics from Northern Illinois University.
 
 ### Background
 
