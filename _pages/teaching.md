@@ -10,6 +10,7 @@ permalink: /teaching/
 ### Northern Illinois University (Graduate Teaching Assistant)
 - ECON 260: Principles of Micro (u)
 - ECON 261: Principles of Macro (u)(head TA)
+- ECON 310: Monetary Policy (u)(instructor)
 - ECON 361: Intermediate Macro (u)
 - ECON 340: Financial Economics (u)
 - ECON 386: Environmental Economics (u)
