@@ -27,7 +27,9 @@ permalink: /teaching/
  
 
 ### Guest Lectures
- - MATH 535: Numerical Analysis (fall 2023)  
+ - MATH 535: Numerical Analysis (Fall 2023)  
     - Guest lecture on the topic of the Euler equation
--  ECON 798: Economics Graduate Colloquium (spring 2024)  
-    - Presented my job market research paper to NIU Economics department  
+-  ECON 798: Economics Graduate Colloquium (Spring 2024)  
+    - Presented my job market research paper to NIU Economics department
+-  Missouri Valley Economic Association Annual Conference (October 2025)
+    - Presented my job market research paper  
