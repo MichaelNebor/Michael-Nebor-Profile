@@ -22,9 +22,9 @@ permalink: /teaching/
 - ECON 690: Econometrics 1 (g)
 - ECON 793: Financial and Time-Series Econometrics (g)
   
-### Teaching Excellence Evidence
+### Evidence Of Teaching Excellence
 - Course Review: [Download File]({{ site.baseurl }}/assets/docs/Summer 2025- Individual Report (Summary) for Michael Nebor - ECON ECON- 310-00Y1-Monetary Policy 310 Sec 00Y1 - NIU.pdf)
-- Email Chain: [Download File]({{ site.baseurl }}/assets/docs/Mail - Michael Nebor - Outlook.pdf)
+- Student Emails: [Download File]({{ site.baseurl }}/assets/docs/Mail - Michael Nebor - Outlook.pdf)
 
 ### Guest Lectures
  - MATH 535: Numerical Analysis (Fall 2023)  
